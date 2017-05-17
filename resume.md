@@ -1,11 +1,10 @@
 Carl Pearson
 ============
 
-----
-
->  Science isn't about WHY. It's about WHY NOT!
+> carl.w.pearson@gmail.com | <http://cwpearson.github.io> | (217) 714-9956
 
 ----
+
 
 Education
 ---------

@@ -3,10 +3,10 @@ PANDOC=pandoc
 
 all: $(TARGETS)
 
-resume_pearson.html : resume.md
+resume_pearson.html : resume.md style.css
 	$(PANDOC) --standalone --to html -c style.css -o resume_pearson.html $^
 
-resume_pearson.pdf : resume.md
+resume_pearson.pdf : resume.md style.css
 	$(PANDOC) --standalone -t html5 --css style.css -o resume_pearson.pdf $^
 
 resume_pearson.docx : resume.md
