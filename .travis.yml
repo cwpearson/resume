@@ -13,6 +13,19 @@ script:
   - pandoc --version
   - xvfb-run --server-args="-screen 0, 1024x768x24" make
 
+before_deploy:
+  export FILE_TO_UPLOAD=cv_pearson.pdf resume_pearson.pdf
+
+deploy:
+  provider: releases
+  api_key:
+    - secure: "mQ/tP2IuXIYnpOLSiw0l9Lk94udiayhPPBwY28/Vwu9Nn36wzi6FU7p+O38ejHe9HLpGF8vcrDcWgQqeLOUzI2xc1bw/mZWVZcO4vBngxDdgHjMgweGHv0I5+GVt/PYAbe7fJ3ynEZbsG6n5pJG4CRWAsB286Az0vxr/Df7uA5ah3eMMlRLm9byb2lT1fSUYEMCQOr0FeT/NJkgrNpqmnCVVNG3YPAfVrNWFHAyqhO2a7JTNmECduCnGGEs0xYo0ANCyqOyjGjA7yaE59OGhF7AEAn/0VtQc9Q5Xk9bmAzfjyi8ptr9vFDX4orCjoB/w12k4yB7bHCo0pUTUqCH7cX9QWRzL/uci1n1uuoWK5VSJ/00z8z1ilnpyLkjggiZSf6Rtxk8X4v8kSQSBlHTiwFJBvmDzYtRG/vSSa00RKvT5ULl70X5elyfLsHxYLaRUuJZdK5nB/Wp27/AvfH58BwM88JWxkizUCHdLDyW48yuvlXPZoPRQ3YmGfa6eK94zqpoU/rPZ8CV5A21VzeP1YOrZSrbkuRvVlw0z8O7xDYk6bG8P2IQmG7mQHZwWGYLRNMeosQm6tnTiSAtOYh8wM0TKL1MzJ3df8O7odpnR0ZC4h5wgHZDUfSIT61QWMwqyjOT0ZGY3ioEL8YIykTN4lgeUdRVzcw8+vqLSUkdL3rc="
+  file_glob: true
+  file: "${FILE_TO_UPLOAD}"
+  skip_cleanup: true
+  on:
+    tags: true
+
 addons:
   apt:
     packages:
