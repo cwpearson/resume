@@ -11,9 +11,9 @@ install:
 
 script:
   - pandoc --version
-  - make
+  - xvfb-run --server-args="-screen 0, 1024x768x24" make
 
 addons:
   apt:
     packages:
-      wkhtmltopdf texlive
+      wkhtmltopdf xvfb
