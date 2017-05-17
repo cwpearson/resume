@@ -1,0 +1,14 @@
+language: R
+
+sudo: false
+
+before_install:
+  - pip install --user pandocfilters
+
+script:
+  - make
+
+addons:
+  apt:
+    packages:
+      wkhtmltopdf
