@@ -23,6 +23,7 @@ May 2013
     
     GPA = 3.75, Dean’s List – 2010, 2011, 2012, 2013
 
+
 Publications
 ------------
 
@@ -42,36 +43,45 @@ Dakkak, Abdul; Pearson, Carl; Hwu, Wen-Mei
 Chen, Xuhao; Wu, Shengzhao; Chang, Li-Wen; Huang, Wei-Sheng; Pearson, Carl; Hwu, Wen-Mei
 *Proceedings of International Workshop on Manycore Embedded Systems, 2014*
 
+
+
 Awards and Recognitions
 -----------------------
+
 2017-2018
 :   Mavis Future Faculty Fellowship, UIUC 2017-2018
 
 2015
 :   Teachers Ranked Excellent by Students, UIUC
 
-
+<div class="cv">
+Industry Experience
+----------------------------
+</div>
+<div class="resume">
 Selected Industry Experience
 ----------------------------
+</div>
 
-6/2014 - 8/2014, 6/2015 - 8/2015
+
+6/14 - 8/14, 6/15 - 8/15
 :   *Engineering Intern*, MulticoreWare Inc., Champaign, IL 
 
     BigCode Research Project (see Projects)
 
     Quantify OpenCV face-detection as a quality baseline for a neural-network- based face detector.
 
-5/2013 - 8/2013
+5/13 - 8/13
 :   *Co-op Engineer*, Floating Point RTL Team, Advanced Micro Devices, Fort Collins, CO 
 
     Implemented portions of CPU flush recovery system in production Verilog.
 
-8/2012 – 5/2013
+8/12 – 5/13
 :   *Engineering Contractor*, Layer By Layer LLC, Claremont, CA 
 
     Develop a custom C++ library to securely interface open-source personal 3D printers with client applications.
 
-5/2012 – 8/2012
+5/12 – 8/12
 :   *Co-op Engineer*, CU Physical Design Team, Advanced Micro Devices, Fort Collins, CO 
 
     Combine portions of the cache unit and investigate tradeoffs between synthesis time and performance metrics.
