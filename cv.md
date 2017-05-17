@@ -1,7 +1,7 @@
 Carl Pearson
 ============
 
-> carl.w.pearson@gmail.com | <http://cwpearson.github.io> | (217) 714-9956
+> carl.w.pearson@gmail.com | <http://cwpearson.github.io>
 
 ----
 
