@@ -9,7 +9,7 @@ from pandocfilters import toJSONFilter, Emph, Para, Div
 def remove(key, value, format, meta):
     if key == 'Div':
         [[ident, classes, kvs], contents] = value
-        if "resume" in classes and "cv" not in classes:
+        if "resumeonly" in classes:
             return []
 
 if __name__ == "__main__":

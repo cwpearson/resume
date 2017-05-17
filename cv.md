@@ -22,10 +22,22 @@ May 2013
     BS with High Distinction, Engineering, concentration (minor) in economics
     
     GPA = 3.75, Dean’s List – 2010, 2011, 2012, 2013
+<div class="cvonly">
+    Tau beta pi
+
+    Harvey Mudd College Scholarship &amp; National Merit Scholarship
+</div>    
 
 
+<div class="cvonly">
+Publications and Patents
+------------------------
+</div>
+<div class="resumeonly">
 Publications
 ------------
+</div>
+
 
 **RAI: A Scalable Project Submission System for Parallel Programming Courses**
 Dakkak, Abdul; Pearson, Carl; Li, Cheng; Hwu, Wen-Mei
@@ -43,6 +55,11 @@ Dakkak, Abdul; Pearson, Carl; Hwu, Wen-Mei
 Chen, Xuhao; Wu, Shengzhao; Chang, Li-Wen; Huang, Wei-Sheng; Pearson, Carl; Hwu, Wen-Mei
 *Proceedings of International Workshop on Manycore Embedded Systems, 2014*
 
+<div class="cvonly">
+
+**Web-based method for physical object delivery though use of 3d printing technology**
+United States 20140122579; Filed November 1, 2012
+</div>
 
 
 Awards and Recognitions
@@ -54,18 +71,28 @@ Awards and Recognitions
 2015
 :   Teachers Ranked Excellent by Students, UIUC
 
-<div class="cv">
-Industry Experience
-----------------------------
+<div class="cvonly">
+Positions Held
+-------------------
 </div>
-<div class="resume">
+<div class="resumeonly">
 Selected Industry Experience
 ----------------------------
 </div>
 
+<div class="cvonly">
+
+8/15 - present
+:   *Board of Governors*, University YMCA, Urbana, IL
+
+8/15 - 12/15
+:   *ECE 408 TA*, 
+
+    Advise 12 students teams on CUDA programming projects
+</div>
 
 6/14 - 8/14, 6/15 - 8/15
-:   *Engineering Intern*, MulticoreWare Inc., Champaign, IL 
+:   *Research Intern*, MulticoreWare Inc., Champaign, IL 
 
     BigCode Research Project (see Projects)
 
@@ -88,8 +115,30 @@ Selected Industry Experience
 
     Create tools to provide management and design engineers with simplified access to design project status.
 
+<div class="cvonly">
+
+2/12 - 5/12
+:   *Clay-Wolkin Fellow*, Harvey Mudd College, Claremont, CA
+
+    Create examples of PIC32 Microcontroller &amp; Cyclone III FPGA input/output using C and SystemVerilog for the second edition of Digital Design and Computer Architecture, by Harris &amp; Harris.
+
+6/10 - 5/12
+:   *Computing and Information Services Helpdesk*, Harvey Mudd College, Claremont, CA 
+
+    User support and long term projects such as creating lab images and cross-platform calendar integration.
+
+8/11 - 5/12
+:   *Digital Electronics / Microcontroller Lab TA*, Harvey Mudd College, Claremont, CA
+</div>
+
+<div class="resumeonly">
 Selected Projects
 -----------------
+</div>
+<div class="cvonly">
+Projects
+-----------------
+</div>
 
 **Cognitive Application Builder**, UIUC / IBM Center for Cognitive Computing Systems Research (C3SR)
 
@@ -102,6 +151,26 @@ State-of- the-art high-performance 2D solver for EM and acoustic fields using CU
 **BigCode**, UIUC / MulticoreWare Inc.
 
 Develop novel automated methods for code and algorithm comparison through LLVM analysis passes.
+
+<div class="cvonly">
+
+**10x10**, UIUC
+
+Provide parallel programming expertise for a high-efficiency computing hardware/software codesign project.
+
+Implement computational kernels for custom vector and data-layout- transformation hardware.
+
+**Intel Corporation Clinic Team Member**, Harvey Mudd College
+
+Simulate and analyze constant-time division algorithms for the Many Integrated Core architecture.
+
+Lead author of C++ simulation.
+
+**Oracle Labs Clinic Team Member**, Harvey Mudd College
+
+Design, synthesize, and verify hardware accelerators for arithmetic operations in Oracle Databases.
+
+</div>
 
 Research Interests
 ------------------
