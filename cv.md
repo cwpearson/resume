@@ -14,7 +14,7 @@ Education
 ---------
 
 Present
-:   *IMPACT Research Group* (University of Illinois at Urbana-Champaign, Urbana, IL)
+:   University of Illinois at Urbana-Champaign, Urbana, IL
 
     Ph.D. candidate in Electrical and Computer Engineering
 
@@ -23,11 +23,11 @@ Present
 May 2013
 :   Harvey Mudd College, Claremont, CA
 
-    BS with High Distinction, Engineering, concentration (minor) in economics
+    BS in Engineering with High Distinction, concentration (minor) in economics
     
     GPA = 3.75, Dean’s List – 2010, 2011, 2012, 2013
 <div class="cvonly">
-    Tau beta pi
+    Tau Beta Pi Engineering Honor Society
 
     Harvey Mudd College Scholarship & National Merit Scholarship
 </div>    
@@ -86,21 +86,24 @@ Selected Industry Experience
 
 <div class="cvonly">
 
+5/16 - 9/16
+:   *Research Intern*, IBM Research, Yorktown Heights, NY
+
 8/15 - present
 :   *Board of Governors*, University YMCA, Urbana, IL
 
 8/15 - 12/15
-:   *ECE 408 TA*, 
+:   *ECE 408 TA*, UIUC, Urbana, IL
 
     Advise 12 students teams on CUDA programming projects
 </div>
 
-6/14 - 8/14, 6/15 - 8/15
+6/15 - 8/15, 6/14 - 8/14
 :   *Research Intern*, MulticoreWare Inc., Champaign, IL 
 
     BigCode Research Project (see Projects)
 
-    Quantify OpenCV face-detection as a quality baseline for a neural-network- based face detector.
+    Quantify OpenCV face-detection as a quality baseline for a neural-network-based face detector.
 
 5/13 - 8/13
 :   *Co-op Engineer*, Floating Point RTL Team, Advanced Micro Devices, Fort Collins, CO 
@@ -124,7 +127,7 @@ Selected Industry Experience
 2/12 - 5/12
 :   *Clay-Wolkin Fellow*, Harvey Mudd College, Claremont, CA
 
-    Create examples of PIC32 Microcontroller &amp; Cyclone III FPGA input/output using C and SystemVerilog for the second edition of Digital Design and Computer Architecture, by Harris &amp; Harris.
+    Create examples of PIC32 Microcontroller & Cyclone III FPGA input/output using C and SystemVerilog for *Digital Design and Computer Architecture*, by Harris & Harris.
 
 6/10 - 5/12
 :   *Computing and Information Services Helpdesk*, Harvey Mudd College, Claremont, CA 
@@ -146,11 +149,11 @@ Projects
 
 **Cognitive Application Builder**, UIUC / IBM Center for Cognitive Computing Systems Research (C3SR)
 
-Design and implementation of a tool to improve programmer productivity for cognitive applications.
+Design and implement a tool to improve programmer productivity for distributed cognitive applications.
 
 **Multilevel Fast Multipole Inverse Scattering Solver**, UIUC
 
-State-of- the-art high-performance 2D solver for EM and acoustic fields using CUDA, OpenMP, and MPI
+State-of-the-art high-performance full-wave 2D inverse-scattering solver Helmholtz waves with CUDA, OpenMP, and MPI.
 
 **BigCode**, UIUC / MulticoreWare Inc.
 
@@ -160,19 +163,17 @@ Develop novel automated methods for code and algorithm comparison through LLVM a
 
 **10x10**, UIUC
 
-Provide parallel programming expertise for a high-efficiency computing hardware/software codesign project.
-
-Implement computational kernels for custom vector and data-layout- transformation hardware.
+Implement computational kernels for custom vector and data-layout- transformation hardware in a hardware/software codesign project.
 
 **Intel Corporation Clinic Team Member**, Harvey Mudd College
 
-Simulate and analyze constant-time division algorithms for the Many Integrated Core architecture.
+Analyze constant-time division algorithms for Many Integrated Core architectures.
 
 Lead author of C++ simulation.
 
 **Oracle Labs Clinic Team Member**, Harvey Mudd College
 
-Design, synthesize, and verify hardware accelerators for arithmetic operations in Oracle Databases.
+Design, synthesize, and verify hardware accelerators for Oracle Database arithmetic operations.
 
 </div>
 
