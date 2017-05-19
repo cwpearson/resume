@@ -14,8 +14,11 @@ all: $(TARGETS)
 cv_pearson.html : cv.md style.css
 	$(PANDOC) --standalone --filter ./cv.py -S --to html -c style.css -o $@ $<
 
+#cv_pearson.pdf : cv.md style.css
+#	$(PANDOC) --standalone --filter ./cv.py -t html5 --css style.css -o $@ $<
+
 cv_pearson.pdf : cv.md style.css
-	$(PANDOC) --standalone --filter ./cv.py -t html5 --css style.css -o $@ $<
+	$(PANDOC) --standalone --filter ./cv.py -t context --template=template.context.tex -o $@ $<
 
 cv_pearson.docx : cv.md
 	$(PANDOC) --standalone --filter ./cv.py --to docx -o $@ $<
