@@ -1,7 +1,11 @@
+---
+geometry: 'margin=1in'
+...
+
 Carl Pearson
 ============
 
-> carl.w.pearson@gmail.com | <http://cwpearson.github.io>
+>  carl.w.pearson@gmail.com | <http://cwpearson.github.io>
 
 ----
 
@@ -25,7 +29,7 @@ May 2013
 <div class="cvonly">
     Tau beta pi
 
-    Harvey Mudd College Scholarship &amp; National Merit Scholarship
+    Harvey Mudd College Scholarship & National Merit Scholarship
 </div>    
 
 
