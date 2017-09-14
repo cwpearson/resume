@@ -18,7 +18,7 @@ Present
 
     Ph.D. candidate in Electrical and Computer Engineering
 
-    GPA = 3.70
+    GPA = 3.75
 
 May 2013
 :   Harvey Mudd College, Claremont, CA
@@ -38,10 +38,19 @@ Publications and Patents
 ------------------------
 </div>
 <div class="resumeonly">
-Publications
+Selected Publications
 ------------
 </div>
 
+**Comparative Performance Evaluation of Multi-GPU MLFMM Implementation for 2-D VIE Problems**
+Pearson, Carl; Hidayetoglu, Mert;,  Ren, Wei; Chew, Weng Cho; Hwu, Wen-Mei
+*Computing and Electromagnetics International Workshop. IEEE, 2017.*
+
+<div class="cvonly">
+**Scalable Parallel DBIM Solutions of Inverse-Scattering Problems**
+Hidayetoglu, Mert; Pearson, Carl; Gurel, Levent; Hwu, Wen-Mei; Chew, Weng Cho;
+*Computing and Electromagnetics International Workshop (CEM), 2017*
+</div>
 
 **RAI: A Scalable Project Submission System for Parallel Programming Courses**
 Dakkak, Abdul; Pearson, Carl; Li, Cheng; Hwu, Wen-Mei
@@ -70,7 +79,7 @@ Awards and Recognitions
 -----------------------
 
 2017-2018
-:   Mavis Future Faculty Fellowship, UIUC 2017-2018
+:   Mavis Future Faculty Fellowship, UIUC
 
 2015
 :   Teachers Ranked Excellent by Students, UIUC
@@ -86,7 +95,7 @@ Selected Industry Experience
 
 <div class="cvonly">
 
-5/16 - 9/16
+5/16 - 9/8
 :   *Research Intern*, IBM Research, Yorktown Heights, NY
 
 8/15 - present

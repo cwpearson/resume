@@ -1,5 +1,10 @@
 # resume
 
-`sudo apt install wkhtmltopdf pandoc`
+## Prerequisites
 
-`pip install --user pandocfilters`
+    sudo apt install -y wkhtmltopdf pandoc python-pip \
+    && pip install --user pandocfilters
+
+## Run
+
+    make
