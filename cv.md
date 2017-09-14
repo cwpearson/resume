@@ -93,55 +93,53 @@ Selected Industry Experience
 ----------------------------
 </div>
 
-<div class="cvonly">
-
-5/16 - 9/8
+5/17 - 9/17
 :   *Research Intern*, IBM Research, Yorktown Heights, NY
+
+<div class="cvonly">
 
 8/15 - present
 :   *Board of Governors*, University YMCA, Urbana, IL
 
 8/15 - 12/15
-:   *ECE 408 TA*, UIUC, Urbana, IL
+:   *Heterogeneous Parallel Programming (ECE408) TA*, UIUC, Urbana, IL
 
-    Advise 12 students teams on CUDA programming projects
+    * Advise 12 students teams on CUDA programming projects
 </div>
 
 6/15 - 8/15, 6/14 - 8/14
 :   *Research Intern*, MulticoreWare Inc., Champaign, IL 
 
-    BigCode Research Project (see Projects)
-
-    Quantify OpenCV face-detection as a quality baseline for a neural-network-based face detector.
+    * BigCode Research Project (see Projects)
+    * Quantify OpenCV face-detection as a quality baseline for a neural-network-based face detector.
 
 5/13 - 8/13
 :   *Co-op Engineer*, Floating Point RTL Team, Advanced Micro Devices, Fort Collins, CO 
 
-    Implemented portions of CPU flush recovery system in production Verilog.
+    * Implemented portions of CPU flush recovery system in production Verilog.
 
 8/12 – 5/13
 :   *Engineering Contractor*, Layer By Layer LLC, Claremont, CA 
 
-    Develop a custom C++ library to securely interface open-source personal 3D printers with client applications.
+    * Develop a custom C++ library to securely interface open-source personal 3D printers with client applications.
 
 5/12 – 8/12
 :   *Co-op Engineer*, CU Physical Design Team, Advanced Micro Devices, Fort Collins, CO 
 
-    Combine portions of the cache unit and investigate tradeoffs between synthesis time and performance metrics.
-
-    Create tools to provide management and design engineers with simplified access to design project status.
+    * Combine portions of the cache unit and investigate tradeoffs between synthesis time and performance metrics.
+    * Create tools to provide management and design engineers with simplified access to design project status.
 
 <div class="cvonly">
 
 2/12 - 5/12
 :   *Clay-Wolkin Fellow*, Harvey Mudd College, Claremont, CA
 
-    Create examples of PIC32 Microcontroller & Cyclone III FPGA input/output using C and SystemVerilog for *Digital Design and Computer Architecture*, by Harris & Harris.
+    * Create examples of PIC32 Microcontroller & Cyclone III FPGA input/output using C and SystemVerilog for *Digital Design and Computer Architecture*, by Harris & Harris.
 
 6/10 - 5/12
 :   *Computing and Information Services Helpdesk*, Harvey Mudd College, Claremont, CA 
 
-    User support and long term projects such as creating lab images and cross-platform calendar integration.
+    * User support and long term projects such as creating lab images and cross-platform calendar integration.
 
 8/11 - 5/12
 :   *Digital Electronics / Microcontroller Lab TA*, Harvey Mudd College, Claremont, CA
