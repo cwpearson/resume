@@ -16,4 +16,4 @@ script:
 addons:
   apt:
     packages:
-      wkhtmltopdf xvfb
+      wkhtmltopdf xvfb context
