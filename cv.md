@@ -93,11 +93,17 @@ Selected Industry Experience
 ----------------------------
 </div>
 
+<div class="cvonly">
+8/7 - 12/17
+:   *Heterogeneous Parallel Programming (ECE408) Head TA*, UIUC, Urbana, IL
+
+    * Develop neural-network lecture material and course project.
+</div>
+
 5/17 - 9/17
 :   *Research Intern*, IBM Research, Yorktown Heights, NY
 
 <div class="cvonly">
-
 8/15 - present
 :   *Board of Governors*, University YMCA, Urbana, IL
 

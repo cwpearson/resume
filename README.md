@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-    sudo apt install -y wkhtmltopdf pandoc python-pip \
+    sudo apt install -y context pandoc python-pip wkhtmltopdf \
     && pip install --user pandocfilters
 
 ## Run
