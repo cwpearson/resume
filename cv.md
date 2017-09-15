@@ -208,6 +208,14 @@ Office Phone: 217 244 8270
 
     w-hwu@illinois.edu
 
+**Jinjun Xiong**
+
+IBM Supervisor, UIUC/IBM C3SR Research Center
+
+Program Director, Cognitive Computing Systems Research, IBM
+
+    jinjun@us.ibm.com
+
 **Michael Estlick**
 
 Direct supervisor at AMD 2013
