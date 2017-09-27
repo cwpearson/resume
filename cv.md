@@ -103,6 +103,8 @@ Selected Industry Experience
 5/17 - 9/17
 :   *Research Intern*, IBM Research, Yorktown Heights, NY
 
+    * Develop application and system characterization tools.
+
 <div class="cvonly">
 8/15 - present
 :   *Board of Governors*, University YMCA, Urbana, IL
