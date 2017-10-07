@@ -10,7 +10,13 @@ install:
 script:
 - pandoc --version
 - xvfb-run --server-args="-screen 0, 1024x768x24" make
-
 addons:
   apt:
     packages: wkhtmltopdf xvfb context
+deploy:
+  provider: gcs
+  access_key_id: GOOGEQY5LDVKHTFZ6AQJ
+  secret_access_key:
+    secure: ISdMi23A2BkCghggyGbKVB2ErKDeTVV9MHMJkgm3EVk4URssGVV+NRRZVcZPjb/E6OoYXmiE8iyS2ciRgrBT76sm0mnn7lp1whIrJ75CAMRoLWsCNnOEo5qIZ9JeSa09YZpUqqKJiBHXt12wYdpumwOpxX3HKryJaYN96ihTihTfTjCdwXaom22a1OwKEduwVnRh1lpfv6+RfOSDGHqQy4ObFJ1bm3F9jLRZioydmiuRhs7DO4fglXNpogRm0jaOnhyo09KUQn86yzZS+rrg2Zfn8ZVuxl+vc7ng33rjqnLOb1LzhxSDBr9jo/r2U/ZtnYGy9FNV8dzJ8HXUH6o0ft9Ij3u57mDJaMBT+D3b1C6b2sNmAal5iN00AD4AgQiBXQOUiNer4A8XRWCb1lah9SURLrj45rWkjufFvnJz3ZUXL/vGbLDqFVYICvJwotmmWi65NsCyauxvkiomU+Zbe6DsR+DALbpVeMeUhKgeC+zW2CwLYb6ZE5HN8oGOtK4PlJVYs9ArdwY6j8udCT3UeLb+5kkJvQklUo4wfWbBn1vhm6whdc3XmLzovToFGaRfqPFr+n8LRKRwgXJa76x5itPi9i8ot3RhZIPWk6BqHa333I4FONF1bMVcCC4l2ya9AjVRNBNM2rnbcMlRg+KYSRx7RWoVlZnccYNxbQ8V/jI=
+  bucket: cwpearson-resume
+  skip_cleanup: true
