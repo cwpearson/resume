@@ -3,6 +3,9 @@ language: python
 python:
 - '2.7'
 cache: pip
+addons:
+  apt:
+    packages: wkhtmltopdf xvfb context
 install:
 - pip install pandocfilters
 - wget https://github.com/jgm/pandoc/releases/download/2.1.1/pandoc-2.1.1-1-amd64.deb -O pandoc.deb
@@ -10,9 +13,6 @@ install:
 script:
 - pandoc --version
 - xvfb-run --server-args="-screen 0, 1024x768x24" make
-addons:
-  apt:
-    packages: wkhtmltopdf xvfb context
 deploy:
   provider: gcs
   access_key_id: GOOGEQY5LDVKHTFZ6AQJ
