@@ -10,6 +10,7 @@ install:
 - pip install pandocfilters
 - wget https://github.com/jgm/pandoc/releases/download/2.1.1/pandoc-2.1.1-1-amd64.deb -O pandoc.deb
 - sudo dpkg -i pandoc.deb
+- rm pandoc.deb
 script:
 - pandoc --version
 - xvfb-run --server-args="-screen 0, 1024x768x24" make
