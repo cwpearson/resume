@@ -1,9 +1,7 @@
 ---
 geometry: 'margin=1in'
+title: Carl Pearson
 ...
-
-Carl Pearson
-============
 
 >  carl.w.pearson@gmail.com | <http://cwpearson.github.io>
 
