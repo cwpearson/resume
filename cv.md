@@ -88,7 +88,7 @@ Chen, Xuhao; Wu, Shengzhao; Chang, Li-Wen; Huang, Wei-Sheng; Pearson, Carl; Hwu,
 
 **Web-based method for physical object delivery though use of 3d printing technology**
 
-United States 20140122579; Filed November 1, 2012
+US 20140122579 A1; Filed November 1, 2012
 </div>
 
 
