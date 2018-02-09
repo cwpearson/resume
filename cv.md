@@ -40,35 +40,54 @@ Selected Publications
 ------------
 </div>
 
+**A Fast and Massively-Parallel Solver for Nonlinear Tomographic Image Reconstruction**
+
+Hidayetoglu, Mert; Pearson, Carl; Pearson; El Hajj, Izzat; Gurel, Levent; Chew, Weng Cho; Hwu, Wen-Mei
+
+*Parallel and Distributed Processing Symposium, 2018 IEEE International.*
+
 **Comparative Performance Evaluation of Multi-GPU MLFMM Implementation for 2-D VIE Problems**
-Pearson, Carl; Hidayetoglu, Mert;,  Ren, Wei; Chew, Weng Cho; Hwu, Wen-Mei
+
+Pearson, Carl; Hidayetoglu, Mert; Ren, Wei; Chew, Weng Cho; Hwu, Wen-Mei
+
 *Computing and Electromagnetics International Workshop. IEEE, 2017.*
 
 <div class="cvonly">
 **Scalable Parallel DBIM Solutions of Inverse-Scattering Problems**
-Hidayetoglu, Mert; Pearson, Carl; Gurel, Levent; Hwu, Wen-Mei; Chew, Weng Cho;
-*Computing and Electromagnetics International Workshop (CEM), 2017*
+
+Hidayetoglu, Mert; Pearson, Carl; Gurel, Levent; Hwu, Wen-Mei; Chew, Weng Cho
+
+*Computing and Electromagnetics International Workshop. IEEE, 2017.*
 </div>
 
 **RAI: A Scalable Project Submission System for Parallel Programming Courses**
+
 Dakkak, Abdul; Pearson, Carl; Li, Cheng; Hwu, Wen-Mei
+
 *Parallel and Distributed Processing Symposium Workshops, 2017 IEEE International*
 
 **Large Inverse-Scattering Solutions with DBIM on GPU-Enabled Supercomputers**
+
 Hidayetoglu, Mert; Pearson, Carl; Chew, Weng Cho; Gurel, Levent; Hwu, Wen-Mei
+
 *Applied and Computational Electromagnetics Symposium, 2017*
 
 **WebGPU: A Scalable Online Development Platform for GPU Programming Courses**
+
 Dakkak, Abdul; Pearson, Carl; Hwu, Wen-Mei
+
 *Parallel and Distributed Processing Symposium Workshops, 2016 IEEE International*
 
 **Adaptive Cache Bypass and Insertion for Many-Core Accelerators**
+
 Chen, Xuhao; Wu, Shengzhao; Chang, Li-Wen; Huang, Wei-Sheng; Pearson, Carl; Hwu, Wen-Mei
+
 *Proceedings of International Workshop on Manycore Embedded Systems, 2014*
 
 <div class="cvonly">
 
 **Web-based method for physical object delivery though use of 3d printing technology**
+
 United States 20140122579; Filed November 1, 2012
 </div>
 
