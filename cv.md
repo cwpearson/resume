@@ -141,7 +141,7 @@ Selected Industry Experience
 5/13 - 8/13
 :   *Co-op Engineer*, Floating Point RTL Team, Advanced Micro Devices, Fort Collins, CO 
 
-    * Implemented portions of CPU flush recovery system in production Verilog.
+    * Implement portions of CPU flush recovery system in production Verilog.
 
 8/12 – 5/13
 :   *Engineering Contractor*, Layer By Layer LLC, Claremont, CA 
@@ -181,31 +181,31 @@ Projects
 
 **Cognitive Application Builder**, UIUC / IBM Center for Cognitive Computing Systems Research (C3SR)
 
-Design and implement a tool to improve programmer productivity for distributed cognitive applications.
+* Design and implement a tool to improve programmer productivity for distributed cognitive applications.
 
 **Multilevel Fast Multipole Inverse Scattering Solver**, UIUC
 
-State-of-the-art high-performance full-wave 2D inverse-scattering solver Helmholtz waves with CUDA, OpenMP, and MPI.
+* State-of-the-art high-performance full-wave 2D inverse-scattering solver Helmholtz waves with CUDA, OpenMP, and MPI.
 
 **BigCode**, UIUC / MulticoreWare Inc.
 
-Develop novel automated methods for code and algorithm comparison through LLVM analysis passes.
+* Develop novel automated methods for code and algorithm comparison through LLVM analysis passes.
 
 <div class="cvonly">
 
 **10x10**, UIUC
 
-Implement computational kernels for custom vector and data-layout- transformation hardware in a hardware/software codesign project.
+* Implement computational kernels for custom vector and data-layout- transformation hardware in a hardware/software codesign project.
 
 **Intel Corporation Clinic Team Member**, Harvey Mudd College
 
-Analyze constant-time division algorithms for Many Integrated Core architectures.
+* Analyze constant-time division algorithms for Many Integrated Core architectures.
 
-Lead author of C++ simulation.
+* Lead author of C++ simulation.
 
 **Oracle Labs Clinic Team Member**, Harvey Mudd College
 
-Design, synthesize, and verify hardware accelerators for Oracle Database arithmetic operations.
+* Design, synthesize, and verify hardware accelerators for Oracle Database arithmetic operations.
 
 </div>
 
